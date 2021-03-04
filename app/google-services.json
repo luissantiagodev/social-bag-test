@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386203066604",
+    "project_id": "socialbagtest",
+    "storage_bucket": "socialbagtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386203066604:android:af9ba9d120746f3555c5c9",
+        "android_client_info": {
+          "package_name": "com.mx.testsocialbag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386203066604-erdu8uapocdcqc7kv44avkqmug7omnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-fKdH75SdAGPhNrjM-vLkvc54xCqh1n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386203066604-erdu8uapocdcqc7kv44avkqmug7omnp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
